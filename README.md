@@ -5,6 +5,7 @@
 - Lasīt informāciju par tiem
 - Ievadiet savu vārdu un dzimšanas gadu
 - Izvēlēties apģērbu, pārvietot to uz personāžu un mainīt tā izmērus
+- Nospiežot pogu slēt un rādīt apģērbu
 - Paglaudīt jauko runci
 
 ### Plāns:
